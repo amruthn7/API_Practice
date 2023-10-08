@@ -1,0 +1,16 @@
+{
+    "eName": "Amr",
+    "email": [
+        "amr@gmail.com",
+        "ruth@gmail.com"
+    ],
+    "phNo": [
+        987456,
+        123456
+    ],
+    "spouse": {
+        "sName": "abc",
+        "phNo": 777888,
+        "eMail": "abc@qwerrt"
+    }
+}
